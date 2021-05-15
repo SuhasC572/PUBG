@@ -1,0 +1,52 @@
+ html {
+     /* background: url(pubg3.jpg) no-repeat center center fixed; */
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     text-align: center;
+ }
+ 
+ .container {
+     max-width: 1837px;
+ }
+ 
+ #guns {
+     background: url(pubg3.jpg) repeat center center;
+ }
+ 
+ .card {
+     border: powderblue;
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-bottom: 10px;
+     box-shadow: 0 0px 20px 0 rgba(19, 1, 1, 0.2);
+     background-color: rgba(0, 0, 0, 0);
+     border: thick black;
+     opacity: 1;
+ }
+ 
+ .card-title {
+     background-color: rgb(228, 181, 52);
+     opacity: 0.9;
+     border-radius: 10px;
+ }
+ 
+ .card-subtitle {
+     color: black;
+     opacity: 1;
+     border-radius: 10px;
+ }
+ 
+ img {
+     height: 110px;
+     width: auto;
+ }
+ 
+ footer {
+     background-color: black;
+ }
+ 
+ .foot {
+     color: white;
+ }
